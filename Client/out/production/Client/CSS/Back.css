@@ -1,0 +1,6 @@
+#Window{
+    -fx-background-image: url("../CSS/back.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: cover;
+}
